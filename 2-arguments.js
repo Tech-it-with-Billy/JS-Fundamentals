@@ -1,4 +1,4 @@
-const argument = [];
+const argument = ['name', 'age'];
 
 if(argument.length < 1){
     console.log('No argument')
